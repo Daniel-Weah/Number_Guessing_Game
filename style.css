@@ -16,6 +16,7 @@ body{
     margin-top: 5%;
     padding: 3rem;
     padding-bottom: 10rem;
+    border-radius: 10px;
 }
 .wrapper input{
     padding: 0.5rem;
